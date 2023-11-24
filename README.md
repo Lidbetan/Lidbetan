@@ -15,4 +15,4 @@ Some of the technologies i've been using are:
 
 
 You can fin more of my work on
-[My portfolio](http://https://lidb-portfolio.netlify.app/ "My portfolio") 
+[My portfolio](https://lidb-portfolio.netlify.app/ "My portfolio") 
