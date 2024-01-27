@@ -15,4 +15,4 @@ Some of the technologies i've been using are:
 
 
 You can fin more of my work on
-[My portfolio]https://lucas-portfolio-react.vercel.app/(/ "My portfolio") 
+[My portfolio] https://lucas-portfolio-react.vercel.app (/ "My portfolio") 
