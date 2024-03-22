@@ -14,4 +14,4 @@ Some of the technologies i've been using are:
   </p>
 
 
-You can fin more of my work on [my portfolio](https://lucas-portfolio-react.vercel.app/)
+You can fin more of my work on [my portfolio](https://lucas-portfolio-reactjs.vercel.app/)
