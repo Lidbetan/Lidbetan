@@ -9,9 +9,9 @@ Some of the technologies i've been using are:
   
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,next,sass,bootstrap,tailwind,react,firebase,git" />
+      <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vite,nextjs,tailwind,astro,sass,bootstrap,firebase,git,github,vscode,npm&perline=8" />
     </a>
   </p>
 
 
-You can fin more of my work on [my portfolio](https://lucas-portfolio-reactjs.vercel.app/)
+You can fin more of my work on [my portfolio](https://lucas-astro.vercel.app/)
